@@ -1,6 +1,5 @@
-# lecture-3-12
+# lecture tisdag 3/12
 CSS, Selektorer och Pseudoklasser
-# **Onsdag 27 november 2024**
 
 ## **Dagens upplägg**
 Dagen fokuserade på **typografi och Google Fonts** under förmiddagen, med genomgång av olika enheter och grunderna i CSS-typografi. På eftermiddagen djupdyker vi i **CSS-selektorer och pseudoklasser**, inklusive praktiska exempel och en kodövning.
