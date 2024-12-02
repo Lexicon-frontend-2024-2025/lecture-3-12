@@ -17,6 +17,7 @@ Dagen fokuserade på **typografi och Google Fonts** under förmiddagen, med geno
     - Enheter som `px`, `em`, `rem`, `%`, och hur de påverkar textens utseende och skalbarhet.
   - **Google Fonts:**  
     Genomgång av hur man importerar och använder Google Fonts i CSS, med fokus på att kombinera fontfamiljer för rubriker och brödtext.
+    - codealong repo: [https://github.com/Lexicon-frontend-2024-2025/3-12-codealong-typhography-]
 - **CSS-selektorer och pseudoklasser**  
 - codealong
 
