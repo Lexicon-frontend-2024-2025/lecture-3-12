@@ -8,7 +8,7 @@ Dagen fokuserade på **typografi och Google Fonts** under förmiddagen, med geno
 
 ## **Schema**
 
-### **10:00 - 12:00**
+### **9:30 - 11:30**
 - **Föreläsning om typografi och Google Fonts**  
   - **Grunderna i typografi:**  
     Introduktion till viktiga begrepp som:
